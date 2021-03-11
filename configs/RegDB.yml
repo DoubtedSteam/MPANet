@@ -1,0 +1,52 @@
+prefix: RegDB
+
+fp16: true
+rerank: false
+
+# dataset
+sample_method: identity_random
+image_size: (256, 128)
+p_size: 12
+k_size: 10
+
+dataset: regdb
+
+# loss
+classification: true
+center_cluster: true
+triplet: false
+center: false
+
+# parameters
+margin: 0.7
+# pattern attention
+num_parts: 6
+weight_sep: 0.5
+# mutual learning
+update_rate: 0.2
+weight_sid: 0.5
+weight_KL: 2.5
+
+# architecture
+drop_last_stride: true
+pattern_attention: true
+mutual_learning: true
+modality_attention: 2
+
+# optimizer
+lr: 0.00035
+optimizer: adam
+num_epoch: 140
+lr_step: [110]
+
+# augmentation
+random_flip: true
+random_crop: true
+random_erase: true
+color_jitter: false
+padding: 10
+
+# log
+log_period: 20
+start_eval: 115
+eval_interval: 5
