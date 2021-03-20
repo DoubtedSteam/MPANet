@@ -1,6 +1,6 @@
 # Discover Cross-Modality Nuances for Visible-Infrared Person Re-Identification
 
-This repository is Pytorch code for our proposed Modality and Pattern Alignment Network (MPANet)
+This repository is Pytorch code for our proposed joint Modality and Pattern Alignment Network (MPANet)
 
 ![](figs/backbone.png)
 
