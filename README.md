@@ -1,4 +1,5 @@
-# Discover Cross-Modality Nuances for Visible-Infrared Person Re-Identification [pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Discover_Cross-Modality_Nuances_for_Visible-Infrared_Person_Re-Identification_CVPR_2021_paper.pdf)
+# Discover Cross-Modality Nuances for Visible-Infrared Person Re-Identification 
+[\[paper\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Discover_Cross-Modality_Nuances_for_Visible-Infrared_Person_Re-Identification_CVPR_2021_paper.pdf)
 
 This repository is Pytorch code for our proposed joint Modality and Pattern Alignment Network (MPANet)
 
