@@ -44,3 +44,8 @@ RegDB:
 ```Shell
 python train.py --cfg ./configs/RegDB.yml
 ```
+
+## trained model:
+the checkpoint can be found here:
+https://pan.baidu.com/s/1TnjtfMFPnm5TEprgAhqz9A 
+code: rfti
