@@ -50,3 +50,7 @@ The checkpoint can be found here:
 https://pan.baidu.com/s/1TnjtfMFPnm5TEprgAhqz9A 
 
 Code: rfti
+
+## Reference:
+[LuckyDC/RGB-IR-ReID-Baseline](https://github.com/LuckyDC/RGB-IR-ReID-Baseline)
+
